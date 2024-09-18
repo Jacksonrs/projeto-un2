@@ -1,0 +1,12 @@
+nome do produto: uhasd
+valor: 71.00
+ID: 4
+tamanho: M
+genero: F
+marca: ioas
+nome do produto: cu
+valor: 65.00
+ID: 7
+tamanho: F
+genero: Ð
+marca: adidas

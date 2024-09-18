@@ -1,0 +1,4 @@
+nome do produto: bola
+valor: 12.00
+ID: 5
+marca: bolinha

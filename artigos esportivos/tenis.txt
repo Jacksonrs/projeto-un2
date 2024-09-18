@@ -1,0 +1,12 @@
+nome do produto: meu
+valor: 5.00
+ID: 1
+tamanho: 89.00
+genero: f
+marca: nike
+nome do produto: uhas
+valor: 12.00
+ID: 5
+tamanho: 78.00
+genero: m
+marca: saq

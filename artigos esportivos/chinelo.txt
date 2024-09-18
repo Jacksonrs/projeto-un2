@@ -1,0 +1,5 @@
+nome do produto: depau
+valor: 21.00
+ID: 2
+tamanho (cm): 22.00
+marca: pa

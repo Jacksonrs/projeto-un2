@@ -1,0 +1,4 @@
+nome do produto: uhsa
+valor: 123.00
+ID: 7
+marca: uhsa

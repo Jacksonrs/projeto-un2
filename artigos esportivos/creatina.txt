@@ -1,0 +1,5 @@
+nome do produto: creatinao
+valor: 990.00
+ID: 1
+quantidade (ml): 1235.00
+marca: eee
